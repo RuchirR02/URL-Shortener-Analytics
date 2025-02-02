@@ -14,4 +14,5 @@ export default defineConfig({
   rules: {
     "react/prop-types": 0,
   },
+  base: "/URL-Shortener-Analytics",
 });
